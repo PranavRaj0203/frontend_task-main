@@ -64,7 +64,9 @@
 - Add edit functionality:
 	- [ ] Edit for Each User: Implement a edit feature for each user entry
 
-![image](https://github.com/impressai/frontend_task/assets/28563570/67fd80fc-c022-41b3-8f01-de11de046379)
+![image](https://drive.google.com/file/d/13arXRfvCjV35qERFDeBmtHrqZQ_dI153/view?usp=sharing)
+![image](https://drive.google.com/file/d/1ZiSK-MO3WQst5i4SdN8KJCFZvHUG3qCX/view?usp=sharing)
+
 
 
 
